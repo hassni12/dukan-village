@@ -1,0 +1,12 @@
+.react-rater-star.is-active {
+    color: #ffbc43 !important;
+}
+
+.react-rater-star {
+    color: #ccc !important;
+    font-size: 1.7em !important;
+}
+
+html, body{
+    scroll-behavior: smooth;
+}
